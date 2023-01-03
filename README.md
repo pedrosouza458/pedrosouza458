@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro 👋
+### Oi, eu sou o Pedro 👋
 
 - 🔭 Olá, sou um desenvolvedor estudando para começar minha carreira profissional.
 - 🎓 Estou no terceiro ano do IFSUL Campus Charqueadas cursando informática.
