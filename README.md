@@ -8,10 +8,6 @@
 - 🚀 Sempre a procura de oportunidades.
 <br>
 
-https://github.com/pedrosouza458github-readme-stats#adding-private-contributions-count-to-total-commits-count
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&include_all_commits=true)
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
