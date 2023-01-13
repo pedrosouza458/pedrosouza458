@@ -7,7 +7,7 @@
 - 💻 Estudando Typescript FullStack, Python e Flutter.
 - 🚀 Sempre a procura de oportunidades.
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
