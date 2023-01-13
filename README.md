@@ -5,7 +5,7 @@
 - 😺 Estou trabalhando em dois projetos, um como fullstack e outro no back-end.
 - 🏆 Consegui o primeiro lugar na gincana Hackaton, com o projeto CarboJobs.
 - 💻 Estudando Typescript FullStack, Python e Flutter.
-- 🚀 Sempre a procura de oportunidades.
+- 🚀 Sempre à procura de oportunidades.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&theme=dracula&include_all_commits=true&border_color=282a36)](https://github.com/pedrosouza458/pedrosouza458)
