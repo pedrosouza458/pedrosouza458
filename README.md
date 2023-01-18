@@ -7,7 +7,7 @@
 - 💻 Estudando Typescript FullStack, Python e Flutter.
 - 🚀 Sempre à procura de oportunidades.
 <br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&include_all_commits=true)](https://github.com/pedrosouza458)
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
