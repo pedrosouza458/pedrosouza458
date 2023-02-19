@@ -8,7 +8,7 @@
 - 🚀 Sempre à procura de oportunidades.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&include_all_commits=true&langs_count=8)](https://github.com/pedrosouza458)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&include_all_commits=true&langs_count=6)](https://github.com/pedrosouza458)
 
 
 
