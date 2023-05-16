@@ -7,5 +7,3 @@
 - 💻 Estudando Typescript FullStack e Nuxt.
 - 🚀 Sempre à procura de oportunidades.
 <br>
-
----
