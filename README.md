@@ -6,4 +6,3 @@
 - 🏆 Consegui o primeiro lugar na gincana Hackaton, com o projeto CarboJobs.
 - 💻 Estudando Typescript FullStack e Nuxt.
 - 🚀 Sempre à procura de oportunidades.
-<br>
