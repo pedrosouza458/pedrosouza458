@@ -4,5 +4,5 @@
 - 🎓 Estou no quarto ano do IFSUL Campus Charqueadas cursando informática.
 - 😺 Estou trabalhando em dois projetos, um como fullstack e outro no back-end.
 - 🏆 Consegui o primeiro lugar na gincana Hackaton, com o projeto CarboJobs.
-- 💻 Estudando Typescript FullStack e Nuxt.
+- 💻 Estudando Typescript FullStack.
 - 🚀 Sempre à procura de oportunidades.
