@@ -1,5 +1,3 @@
-### Oi, eu sou o Pedro 👋
-
 - 🔭 Olá, sou um desenvolvedor estudando para começar minha carreira profissional.
 - 🎓 Estou no quarto ano do IFSUL Campus Charqueadas cursando informática.
 - 😺 Estou trabalhando em dois projetos, um como fullstack e outro no back-end.
