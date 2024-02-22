@@ -1,4 +1,4 @@
-- 🔭 Olá, sou um desenvolvedor estudando para começar minha carreira profissional.
+- 🔭 Olá, sou um desenvolvedor estudando para começar minha carreira profissional. <br>
      Hi, im a developer studing to start my professional career
 - 🎓 Formando em técnico em informática no Instituto Federal do RS (IFSUL) .
      Graduated as a computer technician at the Federal Institute of RS (IFSUL) in high school (Brazil)
