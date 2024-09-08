@@ -1,6 +1,5 @@
 - 🔭 Im a developer studing to start my professional career.
 - 🎓 Graduated as a computer technician at the Federal Institute of RS (IFSUL) in high school (Brazil)
-- 😺 Im working in two project, one as fullstack and the other as back-end developer.
 - 🏆 First place in the IFSUL Hackaton in 2022 and 2023, with the project CarboJobs and Calamialert.
 - 💻 Studying Typescript Fullstack, Golang and Rust.
 - 🚀 Always looking for opportunities.
