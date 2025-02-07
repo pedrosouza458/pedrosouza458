@@ -27,11 +27,9 @@ I am a Internet Systems student at IFSUL Campus Charqueadas, currently in the th
 </div>
 <br>
 
-<div style="display: flex; gap: 5px; align-items: stretch;">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&card_width=350" style="height: 200px;  object-fit: cover;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosouza458&theme=dracula&show_icons=true&card_width=350" style="height: 200px; object-fit: cover;" />
-</div>
 
 
