@@ -13,8 +13,3 @@ I am a Internet Systems student at IFSUL Campus Charqueadas, currently in the th
 <br>
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouza458&layout=compact&theme=dracula&card_width=350" style="height: 200px;  object-fit: cover;" />
-  </a>
-
-
