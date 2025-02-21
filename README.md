@@ -8,5 +8,5 @@ I am a Internet Systems student at IFSUL Campus Charqueadas, currently in the th
 
 ## Techs i Use Sometimes
 
-[![Tech Stack](https://skillicons.dev/icons?i=figma,react,next)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,figma,react,next)](https://skillicons.dev)
 
