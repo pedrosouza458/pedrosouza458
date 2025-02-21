@@ -4,7 +4,7 @@ I am a Internet Systems student at IFSUL Campus Charqueadas, currently in the th
 
 ## My actual tech stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,jest,js,ts,nodejs,prisma,express,docker,aws,mysql,postgresql,sqlite)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,jest,prisma,express,docker,aws,mysql,postgresql,sqlite)](https://skillicons.dev)
 
 ## Techs i Use Sometimes
 
