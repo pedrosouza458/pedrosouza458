@@ -4,9 +4,8 @@ I am a Internet Systems student at IFSUL Campus Charqueadas, currently in the th
 
 ## My backend stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,jest,prisma,express,docker,aws,mysql,postgresql,sqlite)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nest,jest,prisma,express,docker,aws,graphql,mysql,postgresql,sqlite)](https://skillicons.dev)
 
 ## Techs i use for frontend
 
 [![Tech Stack](https://skillicons.dev/icons?i=figma,html,css,react,next)](https://skillicons.dev)
-
